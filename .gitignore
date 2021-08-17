@@ -3,3 +3,8 @@
 *.egg-info
 dist/*
 build/*
+.idea/vcs.xml
+.idea/pytelegraf.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
